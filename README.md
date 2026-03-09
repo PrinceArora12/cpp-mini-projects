@@ -32,3 +32,6 @@ Concepts Used:
 ## How to Run
 
 Compile using g++:
+
+## Author
+Prince
